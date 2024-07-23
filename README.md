@@ -1,1 +1,1 @@
-##consumer_price_index
+## consumer_price_index
